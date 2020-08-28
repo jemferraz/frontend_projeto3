@@ -1,0 +1,25 @@
+.topbar{
+    padding:20px;
+    display:flex;
+    flex-direction:row;
+    justify-content: flex-start;
+    align-content: center;
+
+}
+
+.nav_option{
+    display: block;
+    list-style-type: none;
+    color: white;
+    margin-right: 20px;
+
+}
+
+a {
+    text-decoration: none;
+    color: white
+}
+
+a:active{
+    color: darkblue;
+}

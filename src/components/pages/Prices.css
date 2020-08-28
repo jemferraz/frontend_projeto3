@@ -1,0 +1,15 @@
+.prices{
+    color: black;
+}
+
+.chart{
+    width: 75vw;
+    height: 90vh;
+    padding: 10px;
+}
+
+.chart-container{
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
