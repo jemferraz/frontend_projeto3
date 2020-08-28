@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a front-end project for the `Let's code` course `Pi Web FullStack`.
+This is a front-end project for the `Let's Code` course `Pi Web FullStack`.
 
 
 ## Available Scripts
