@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This is a front-end project for the `Let's Code` course `Pi Web FullStack`.
+This is a front-end project for the `Let's Code` course `Pi Web FullStack`. It uses the API from `finnhub.io` to get information about a company, including latest news and historical prices.
 
 
 ## Available Scripts
